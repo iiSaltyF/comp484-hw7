@@ -1,1 +1,1 @@
-HW6: https://iisaltyf.github.io/comp484_hw7/
+HW7: https://iisaltyf.github.io/comp484-hw7/
